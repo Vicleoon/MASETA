@@ -773,6 +773,7 @@
       "spider_eye": "2024-12-09 19:13:56 +0000",
       "bread": "2024-12-09 00:08:30 +0000",
       "glow_berries": "2024-12-09 18:52:29 +0000",
+      "cooked_beef": "2024-12-09 19:50:24 +0000",
       "cod": "2024-12-09 02:02:18 +0000",
       "porkchop": "2024-12-08 23:57:31 +0000",
       "cooked_salmon": "2024-12-09 01:32:45 +0000"
@@ -2112,6 +2113,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-09 18:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-09 18:26:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-09 18:35:38 +0000"
@@ -2124,27 +2137,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/terracotta": {
-    "criteria": {
-      "has_clay_block": "2024-12-09 19:24:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2024-12-09 19:12:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2024-12-09 18:35:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2024-12-09 18:26:04 +0000"
     },
     "done": true
   },
@@ -2166,7 +2161,37 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-09 18:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-09 18:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-09 18:35:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-09 18:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-09 18:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-12-09 18:37:14 +0000"
     },
@@ -2178,9 +2203,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-09 18:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2024-12-09 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-09 19:12:36 +0000"
     },
     "done": true
   },
@@ -2190,45 +2227,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_fence": {
+  "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
-      "has_planks": "2024-12-09 18:35:38 +0000"
+      "has_clay_block": "2024-12-09 19:24:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
-      "has_glowstone_dust": "2024-12-09 18:57:46 +0000"
+      "has_mossy_cobblestone": "2024-12-09 19:42:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "has_planks": "2024-12-09 18:35:38 +0000"
+      "has_mossy_cobblestone": "2024-12-09 19:42:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "has_iron_block": "2024-12-09 18:26:04 +0000"
+      "has_mossy_cobblestone": "2024-12-09 19:42:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "has_moss_block": "2024-12-09 18:37:14 +0000"
+      "has_mossy_cobblestone": "2024-12-09 19:42:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_slab": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
-      "has_planks": "2024-12-09 18:35:38 +0000"
+      "has_mossy_cobblestone": "2024-12-09 19:42:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
-      "has_moss_block": "2024-12-09 18:37:14 +0000"
+      "has_mossy_cobblestone": "2024-12-09 19:42:15 +0000"
     },
     "done": true
   },
