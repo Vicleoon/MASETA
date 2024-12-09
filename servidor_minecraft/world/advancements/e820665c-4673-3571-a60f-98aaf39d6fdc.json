@@ -961,6 +961,7 @@
     "criteria": {
       "minecraft:cave_spider": "2024-12-09 00:52:06 +0000",
       "minecraft:skeleton": "2024-12-09 00:31:29 +0000",
+      "minecraft:phantom": "2024-12-09 18:00:05 +0000",
       "minecraft:spider": "2024-12-09 00:19:38 +0000",
       "minecraft:zombie": "2024-12-09 00:20:05 +0000"
     },
@@ -1755,6 +1756,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2024-12-09 04:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-12-09 18:02:34 +0000"
     },
     "done": true
   },
