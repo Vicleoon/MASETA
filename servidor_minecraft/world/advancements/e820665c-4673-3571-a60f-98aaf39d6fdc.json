@@ -661,6 +661,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2024-12-09 20:06:52 +0000",
       "bread": "2024-12-09 00:08:24 +0000",
       "sweet_berries": "2024-12-09 18:45:38 +0000",
       "salmon": "2024-12-09 03:42:27 +0000",
@@ -1929,6 +1930,24 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-09 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-09 20:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-09 20:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-09 20:06:49 +0000"
     },
     "done": true
   },
