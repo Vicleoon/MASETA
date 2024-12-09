@@ -11,10 +11,13 @@
       "minecraft:beach": "2024-12-08 23:36:57 +0000",
       "minecraft:dark_forest": "2024-12-08 23:36:14 +0000",
       "minecraft:forest": "2024-12-08 23:50:44 +0000",
+      "minecraft:taiga": "2024-12-09 18:29:08 +0000",
       "minecraft:ocean": "2024-12-08 23:43:07 +0000",
       "minecraft:deep_ocean": "2024-12-08 23:46:37 +0000",
       "minecraft:river": "2024-12-08 23:43:08 +0000",
+      "minecraft:lush_caves": "2024-12-09 18:34:44 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-09 01:21:23 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-09 18:32:28 +0000",
       "minecraft:plains": "2024-12-08 23:49:57 +0000"
     },
     "done": false
@@ -658,6 +661,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-12-09 00:08:24 +0000",
+      "sweet_berries": "2024-12-09 18:45:38 +0000",
       "salmon": "2024-12-09 03:42:27 +0000",
       "cooked_salmon": "2024-12-08 23:45:11 +0000"
     },
@@ -1759,9 +1763,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_button": {
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
-      "has_planks": "2024-12-09 18:24:38 +0000"
+      "has_potato": "2024-12-09 17:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-09 17:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-09 17:44:09 +0000"
     },
     "done": true
   },
@@ -1777,27 +1793,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+  "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
-      "has_potato": "2024-12-09 17:44:09 +0000"
+      "has_log": "2024-12-09 18:24:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-09 18:24:38 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-09 18:24:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2024-12-09 17:44:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2024-12-09 17:44:09 +0000"
     },
     "done": true
   },
@@ -1825,12 +1835,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2024-12-09 18:24:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-09 18:24:38 +0000"
@@ -1846,6 +1850,24 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-12-09 18:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-09 18:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-09 18:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-09 18:34:44 +0000"
     },
     "done": true
   },
