@@ -61,3 +61,11 @@
 [17:02:24] [Server thread/INFO]: [Not Secure] <samir50594023> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 [17:02:38] [Server thread/INFO]: [Not Secure] <samir50594023> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 [17:02:44] [Server thread/INFO]: [Not Secure] <samir50594023> eww
+[17:19:13] [Server thread/INFO]: samir50594023 was slain by Zombie
+[17:22:15] [Server thread/INFO]: Vicleoon lost connection: Disconnected
+[17:22:15] [Server thread/INFO]: Vicleoon left the game
+[17:26:46] [Server thread/INFO]: Vicleoon[/127.39.109.39:54765] logged in with entity id 7734 at (397.8262817132036, 75.0, -912.474067435595)
+[17:26:46] [Server thread/INFO]: Vicleoon joined the game
+[17:28:50] [Server thread/INFO]: samir50594023 lost connection: Timed out
+[17:28:50] [Server thread/INFO]: samir50594023 left the game
+[17:28:51] [Server thread/WARN]: handleDisconnection() called twice
