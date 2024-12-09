@@ -71,3 +71,7 @@
 [17:28:51] [Server thread/WARN]: handleDisconnection() called twice
 [17:30:54] [Server thread/INFO]: samir50594023[/127.9.45.150:48409] logged in with entity id 8677 at (367.6922753405043, 62.9375, -1045.7505440111106)
 [17:30:54] [Server thread/INFO]: samir50594023 joined the game
+[17:48:33] [Server thread/INFO]: Vicleoon lost connection: Timed out
+[17:48:33] [Server thread/INFO]: Vicleoon left the game
+[17:49:11] [Server thread/INFO]: Vicleoon[/127.39.109.39:58597] logged in with entity id 14570 at (337.6952940696024, 76.0, -1258.9155544989449)
+[17:49:11] [Server thread/INFO]: Vicleoon joined the game
