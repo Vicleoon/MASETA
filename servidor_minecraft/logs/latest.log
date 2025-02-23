@@ -145,3 +145,18 @@
 [19:08:54] [Server thread/INFO]: dimasroa has made the advancement [Not Today, Thank You]
 [19:09:28] [Server thread/INFO]: dimasroa was shot by Skeleton
 [19:09:47] [Server thread/INFO]: Vicleoon was slain by Zombie
+[19:21:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-298, y=80, z=-434} class_2338{x=-298, y=79, z=-435}
+[19:21:48] [Server thread/INFO]: Vicleoon has made the advancement [Sweet Dreams]
+[19:22:32] [Server thread/INFO]: dimasroa has made the advancement [Sweet Dreams]
+[19:23:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2385ms or 47 ticks behind
+[19:27:52] [Server thread/INFO]: [Not Secure] <Vicleoon> -208 ~ -1344
+[19:29:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-266, y=72, z=-565} class_2338{x=-267, y=70, z=-565}
+[19:33:29] [Server thread/INFO]: Vicleoon lost connection: Timed out
+[19:33:29] [Server thread/INFO]: Vicleoon left the game
+[19:33:29] [Server thread/WARN]: handleDisconnection() called twice
+[19:34:48] [Server thread/INFO]: Vicleoon[/127.39.109.39:56597] logged in with entity id 12243 at (-226.93045910790045, 70.0, -1022.6999999880791)
+[19:34:48] [Server thread/INFO]: Vicleoon joined the game
+[19:46:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-183, y=78, z=-1365} class_2338{x=-184, y=78, z=-1365}
+[19:46:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-183, y=78, z=-1365} class_2338{x=-184, y=78, z=-1365}
+[19:46:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-183, y=78, z=-1365} class_2338{x=-184, y=78, z=-1365}
+[19:46:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-183, y=78, z=-1365} class_2338{x=-184, y=78, z=-1365}
