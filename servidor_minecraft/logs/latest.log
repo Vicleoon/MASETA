@@ -1,202 +1,322 @@
-[18:48:32] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
-[18:48:32] [main/INFO]: Loading 4 mods:
+[19:18:18] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
+[19:18:18] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.20.4
-[18:48:32] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MASETA/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[18:48:41] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:48:43] [main/INFO]: No existing world data, creating new world
-[18:48:44] [main/INFO]: Loaded 7 recipes
-[18:48:45] [main/INFO]: Loaded 1271 advancements
-[18:48:45] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[18:48:45] [Server thread/INFO]: Loading properties
-[18:48:45] [Server thread/INFO]: Default game type: SURVIVAL
-[18:48:45] [Server thread/INFO]: Generating keypair
-[18:48:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:48:46] [Server thread/INFO]: Using epoll channel type
-[18:48:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:48:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:48:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:48:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:48:46] [Server thread/INFO]: Preparing level "world"
-[18:48:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:49:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:07] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:07] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:13] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:13] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:31] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:31] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:49:46] [Worker-Main-3/INFO]: Preparing spawn area: 42%
-[18:49:47] [Worker-Main-3/INFO]: Preparing spawn area: 72%
-[18:49:49] [Server thread/INFO]: Time elapsed: 50415 ms
-[18:49:49] [Server thread/INFO]: Done (63.598s)! For help, type "help"
-[18:49:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:49:49] [Server thread/INFO]: home/codespace/.python/current/bin/python /workspaces/MASETA/msx.py<--[HERE]
-[18:50:46] [Server thread/INFO]: dimasroa[/127.104.66.37:34061] logged in with entity id 300 at (0.5, 101.0, 7.5)
-[18:50:46] [Server thread/INFO]: dimasroa joined the game
-[18:51:11] [Server thread/INFO]: Vicleoon[/127.39.109.39:37467] logged in with entity id 483 at (2.5, 101.0, 7.5)
-[18:51:11] [Server thread/INFO]: Vicleoon joined the game
-[18:51:31] [Server thread/INFO]: [Not Secure] <Vicleoon> te llamo?
-[18:51:36] [Server thread/INFO]: [Not Secure] <Vicleoon> o llmame
-[18:52:04] [Server thread/INFO]: dimasroa has made the advancement [Stone Age]
-[18:52:17] [Server thread/INFO]: Vicleoon has made the advancement [Stone Age]
-[18:52:44] [Server thread/INFO]: Vicleoon has made the advancement [Getting an Upgrade]
-[18:53:06] [Server thread/INFO]: dimasroa has made the advancement [Getting an Upgrade]
-[18:53:47] [Server thread/INFO]: Seed: [45]
-[18:53:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:53:51] [Server thread/INFO]: see<--[HERE]
-[18:53:53] [Server thread/INFO]: Seed: [45]
-[19:02:54] [Server thread/INFO]: dimasroa has made the advancement [Acquire Hardware]
-[19:03:15] [Server thread/INFO]: dimasroa has made the advancement [Isn't It Iron Pick]
-[19:03:24] [Server thread/INFO]: Vicleoon has made the advancement [Isn't It Iron Pick]
-[19:06:58] [Server thread/INFO]: dimasroa has made the advancement [Monster Hunter]
-[19:08:16] [Server thread/INFO]: Vicleoon has made the advancement [Acquire Hardware]
-[19:08:28] [Server thread/INFO]: Vicleoon has made the advancement [Monster Hunter]
-[19:08:43] [Server thread/INFO]: Vicleoon has made the advancement [Not Today, Thank You]
-[19:08:54] [Server thread/INFO]: dimasroa has made the advancement [Not Today, Thank You]
-[19:09:28] [Server thread/INFO]: dimasroa was shot by Skeleton
-[19:09:47] [Server thread/INFO]: Vicleoon was slain by Zombie
-[19:21:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-298, y=80, z=-434} class_2338{x=-298, y=79, z=-435}
-[19:21:48] [Server thread/INFO]: Vicleoon has made the advancement [Sweet Dreams]
-[19:22:32] [Server thread/INFO]: dimasroa has made the advancement [Sweet Dreams]
-[19:23:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2385ms or 47 ticks behind
-[19:27:52] [Server thread/INFO]: [Not Secure] <Vicleoon> -208 ~ -1344
-[19:29:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-266, y=72, z=-565} class_2338{x=-267, y=70, z=-565}
-[19:33:29] [Server thread/INFO]: Vicleoon lost connection: Timed out
-[19:33:29] [Server thread/INFO]: Vicleoon left the game
-[19:33:29] [Server thread/WARN]: handleDisconnection() called twice
-[19:34:48] [Server thread/INFO]: Vicleoon[/127.39.109.39:56597] logged in with entity id 12243 at (-226.93045910790045, 70.0, -1022.6999999880791)
-[19:34:48] [Server thread/INFO]: Vicleoon joined the game
-[19:46:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-183, y=78, z=-1365} class_2338{x=-184, y=78, z=-1365}
-[19:46:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-183, y=78, z=-1365} class_2338{x=-184, y=78, z=-1365}
-[19:46:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-183, y=78, z=-1365} class_2338{x=-184, y=78, z=-1365}
-[19:46:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-183, y=78, z=-1365} class_2338{x=-184, y=78, z=-1365}
-[19:55:26] [Server thread/INFO]: [Not Secure] <dimasroa> e
-[19:55:45] [Server thread/INFO]: [Not Secure] <Vicleoon> ZZZZZZZZZZZZZZZZZ
-[19:55:49] [Server thread/INFO]: [Not Secure] <Vicleoon> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[19:55:52] [Server thread/INFO]: [Not Secure] <Vicleoon> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[19:55:53] [Server thread/INFO]: [Not Secure] <Vicleoon> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[19:55:55] [Server thread/INFO]: [Not Secure] <dimasroa> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[19:55:55] [Server thread/INFO]: [Not Secure] <dimasroa> z
-[19:55:56] [Server thread/INFO]: [Not Secure] <Vicleoon> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[19:56:02] [Server thread/INFO]: Villager class_1646['Villager'/12622, l='ServerLevel[world]', x=-215.41, y=79.00, z=-1362.62] died, message: 'Villager was slain by Zombie'
-[19:56:06] [Server thread/INFO]: Villager class_1646['Farmer'/12620, l='ServerLevel[world]', x=-220.06, y=79.79, z=-1362.86] died, message: 'Farmer was slain by Zombie'
-[19:59:30] [Server thread/INFO]: dimasroa has made the advancement [A Seedy Place]
-[20:00:27] [Server thread/INFO]: Vicleoon has made the advancement [A Seedy Place]
-[20:08:01] [Server thread/INFO]: [Not Secure] <Vicleoon> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[20:08:04] [Server thread/INFO]: [Not Secure] <Vicleoon> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[20:08:05] [Server thread/INFO]: [Not Secure] <Vicleoon> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[20:08:06] [Server thread/INFO]: [Not Secure] <Vicleoon> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[20:08:07] [Server thread/INFO]: [Not Secure] <Vicleoon> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[20:08:07] [Server thread/INFO]: [Not Secure] <Vicleoon> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[20:08:17] [Server thread/INFO]: [Not Secure] <dimasroa> z
-[20:08:50] [Server thread/INFO]: dimasroa was shot by Skeleton
-[20:12:26] [Server thread/INFO]: [Not Secure] <Vicleoon> -40 ~ -1448
-[20:14:13] [Server thread/INFO]: [Not Secure] <Vicleoon> -40 ~ -1448
-[20:14:52] [Server thread/INFO]: [Not Secure] <Vicleoon> -40 ~ -1448
-[20:14:58] [Server thread/INFO]: [Not Secure] <Vicleoon> -168 ~ -1432
-[20:23:47] [Server thread/INFO]: dimasroa has made the advancement [Diamonds!]
-[20:24:11] [Server thread/INFO]: Vicleoon was slain by Zombie
-[20:24:15] [Server thread/INFO]: dimasroa was slain by Zombie
-[20:24:30] [Server thread/INFO]: [Not Secure] <Vicleoon> XXXXXXXXXX
-[20:24:31] [Server thread/INFO]: [Not Secure] <Vicleoon> ZZZZZZZZZZZZZZ
-[20:24:37] [Server thread/INFO]: [Not Secure] <dimasroa> xd
-[20:26:02] [Server thread/INFO]: dimasroa was slain by Zombie
-[20:26:37] [Server thread/INFO]: Vicleoon has made the advancement [Diamonds!]
-[20:29:30] [Server thread/INFO]: dimasroa was slain by Zombie
-[20:29:59] [Server thread/INFO]: Vicleoon was slain by Zombie
-[20:30:14] [Server thread/INFO]: Vicleoon was slain by Zombie
-[20:30:28] [Server thread/INFO]: Vicleoon was slain by Zombie
-[20:30:41] [Server thread/INFO]: dimasroa was slain by Zombie
-[20:32:12] [Server thread/INFO]: Vicleoon was blown up by Creeper
-[20:35:40] [Server thread/INFO]: Vicleoon was shot by Skeleton
-[20:38:22] [Server thread/INFO]: Vicleoon has made the advancement [The Cutest Predator]
+[19:18:18] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MASETA/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:18:27] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:18:29] [main/INFO]: No existing world data, creating new world
+[19:18:30] [main/INFO]: Loaded 7 recipes
+[19:18:31] [main/INFO]: Loaded 1271 advancements
+[19:18:32] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[19:18:32] [Server thread/INFO]: Loading properties
+[19:18:32] [Server thread/INFO]: Default game type: SURVIVAL
+[19:18:32] [Server thread/INFO]: Generating keypair
+[19:18:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:18:32] [Server thread/INFO]: Using epoll channel type
+[19:18:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:18:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:18:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:18:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:18:32] [Server thread/INFO]: Preparing level "world"
+[19:18:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:18:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:19:29] [Worker-Main-1/INFO]: Preparing spawn area: 31%
+[19:19:30] [Worker-Main-1/INFO]: Preparing spawn area: 68%
+[19:19:32] [Server thread/INFO]: Time elapsed: 47572 ms
+[19:19:32] [Server thread/INFO]: Done (59.786s)! For help, type "help"
+[19:19:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:19:32] [Server thread/INFO]: home/codespace/.python/current/bin/python3 /workspaces/MASETA/msx.py<--[HERE]
+[19:19:33] [Server thread/INFO]: Vicleoon[/127.39.109.39:57693] logged in with entity id 114 at (9.5, 75.0, 7.5)
+[19:19:33] [Server thread/INFO]: Vicleoon joined the game
+[19:19:33] [Server thread/INFO]: dimasroa[/127.104.66.37:49791] logged in with entity id 131 at (-9.5, 72.0, -4.5)
+[19:19:33] [Server thread/INFO]: dimasroa joined the game
+[19:19:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[19:19:46] [Server thread/INFO]: lestaa[/127.44.40.44:60301] logged in with entity id 343 at (-6.5, 75.0, -4.5)
+[19:19:46] [Server thread/INFO]: lestaa joined the game
+[19:20:38] [Server thread/INFO]: Vicleoon has made the advancement [Stone Age]
+[19:20:49] [Server thread/INFO]: Vicleoon has made the advancement [Getting an Upgrade]
+[19:20:53] [Server thread/INFO]: lestaa has made the advancement [Stone Age]
+[19:21:29] [Server thread/INFO]: dimasroa has made the advancement [Stone Age]
+[19:21:30] [Server thread/INFO]: lestaa has made the advancement [Getting an Upgrade]
+[19:21:36] [Server thread/INFO]: dimasroa has made the advancement [Getting an Upgrade]
+[19:22:10] [Server thread/INFO]: Seed: [-418435810461364682]
+[19:23:53] [Server thread/INFO]: [Not Secure] <Vicleoon> s -416 ~ 304
+[19:24:11] [Server thread/INFO]: [Not Secure] <Vicleoon> s -416 ~ 304
+[19:27:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-319, y=64, z=-48} class_2338{x=-319, y=62, z=-50}
+[19:27:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-318, y=64, z=-49} class_2338{x=-318, y=62, z=-51}
+[19:28:17] [Server thread/INFO]: Vicleoon was slain by Iron Golem
+[19:28:28] [Server thread/INFO]: [Not Secure] <Vicleoon> s -416 ~ 304
+[19:30:45] [Server thread/INFO]: Vicleoon has made the advancement [Acquire Hardware]
+[19:30:52] [Server thread/WARN]: Vicleoon was kicked for floating too long!
+[19:30:52] [Server thread/INFO]: Vicleoon lost connection: Flying is not enabled on this server
+[19:30:52] [Server thread/INFO]: Vicleoon left the game
+[19:30:52] [Server thread/WARN]: handleDisconnection() called twice
+[19:31:47] [Server thread/INFO]: Vicleoon[/127.39.109.39:32923] logged in with entity id 8279 at (-415.7698493135996, 73.00133597911214, 283.31894872491677)
+[19:31:47] [Server thread/INFO]: Vicleoon joined the game
+[19:31:49] [Server thread/INFO]: dimasroa has made the advancement [Sweet Dreams]
+[19:32:06] [Server thread/INFO]: Vicleoon has made the advancement [Sweet Dreams]
+[19:32:11] [Server thread/INFO]: [Not Secure] <Vicleoon> descvvvccc
+[19:32:18] [Server thread/INFO]: [Not Secure] <dimasroa> |aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[19:32:22] [Server thread/INFO]: lestaa has made the advancement [Sweet Dreams]
+[19:32:25] [Server thread/INFO]: [Not Secure] <Vicleoon> zzzzzzzzzzzzzzzzz
+[19:32:26] [Server thread/INFO]: [Not Secure] <Vicleoon> zzzzzzzzzzzz
+[19:32:26] [Server thread/INFO]: [Not Secure] <Vicleoon> z
+[19:32:26] [Server thread/INFO]: [Not Secure] <Vicleoon> z
+[19:32:26] [Server thread/INFO]: [Not Secure] <Vicleoon> z
+[19:32:26] [Server thread/INFO]: [Not Secure] <Vicleoon> z
+[19:32:26] [Server thread/INFO]: [Not Secure] <Vicleoon> z
+[19:32:27] [Server thread/INFO]: [Not Secure] <Vicleoon> z
+[19:32:31] [Server thread/INFO]: [Not Secure] <dimasroa> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[19:32:34] [Server thread/INFO]: Vicleoon was slain by Zombie
+[19:33:05] [Server thread/INFO]: dimasroa has made the advancement [Acquire Hardware]
+[19:33:15] [Server thread/INFO]: Vicleoon was blown up by Creeper
+[19:34:25] [Server thread/INFO]: Seed: [-418435810461364682]
+[19:36:11] [Server thread/INFO]: [Not Secure] <Vicleoon> -712 ~ 498
+[19:36:21] [Server thread/INFO]: Vicleoon has made the advancement [Monster Hunter]
+[19:38:35] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.4499346200740888
+[19:38:35] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.7560154375907473
+[19:38:36] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.9243764704412456
+[19:38:36] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 1.1266385123794294
+[19:38:36] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 1.3086743095386737
+[19:38:40] [Server thread/INFO]: [Not Secure] <Vicleoon> -712 ~ 498
+[19:39:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2427ms or 48 ticks behind
+[19:39:25] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved too quickly! -1.3965483797533125,0.0,10.29446679011528
+[19:39:25] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved too quickly! -1.4568076701471,0.0,10.689810470286261
+[19:39:25] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved too quickly! -1.517277953923326,0.0,11.085130540921227
+[19:39:25] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved too quickly! -1.5779419194276443,0.0,11.48042876320278
+[19:39:25] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved too quickly! -9.632329666272085,0.0,2.773757573792068
+[19:39:25] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved too quickly! -1.638783986637236,0.0,11.875706722194877
+[19:39:25] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved too quickly! -9.93571681737285,0.0,3.008449270340975
+[19:39:25] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved too quickly! -1.699790133531792,0.0,12.270965848180595
+[19:39:25] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved too quickly! -10.235028375096363,0.0,3.2498421075160877
+[19:39:25] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved too quickly! -1.7609439521389731,0.0,12.66620802446107
+[19:39:25] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved too quickly! -10.530398935681433,0.0,3.497501431793694
+[19:39:25] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved too quickly! -10.821976889963594,0.0,3.7510089144102494
+[19:39:25] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved too quickly! -1.8222344625072537,0.0,13.061434346235387
+[19:39:25] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved too quickly! -1.8836517836118674,0.0,13.456645799182866
+[19:39:25] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved too quickly! -11.10991775027776,0.0,4.009966508684101
+[19:39:25] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved too quickly! -1.9451832343761453,0.0,13.851843870186485
+[19:39:25] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved too quickly! -11.394380912561019,0.0,4.2739973554731705
+[19:39:25] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved too quickly! -2.006821189520224,0.0,14.247029297669314
+[19:39:25] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved too quickly! -11.675532598401901,0.0,4.542741656488715
+[19:39:25] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved too quickly! -2.068554998603645,0.0,14.642202746211865
+[19:39:25] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved too quickly! -11.953536531664327,0.0,4.81586256407661
+[19:39:25] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved too quickly! -2.131067226785717,0.0,15.037250112248557
+[19:39:25] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved too quickly! -12.228560402044423,0.0,5.093039365513619
+[19:39:25] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved too quickly! -2.195582668366569,0.0,15.431931768352115
+[19:39:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-601, y=64, z=692} class_2338{x=-602, y=62, z=692}
+[19:39:38] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.3082713149487972
+[19:39:38] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.34423600526247355
+[19:39:38] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.3766042256872879
+[19:39:38] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.40074069865204365
+[19:39:38] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.41746864240553805
+[19:40:02] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.481850962260296
+[19:40:03] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.28788889572126664
+[19:40:03] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.4378531607729883
+[19:40:03] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.48577769383564373
+[19:40:04] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.31866728273041645
+[19:40:04] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.29149886645609513
+[19:40:04] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.3029516327762849
+[19:40:10] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.43038108128918284
+[19:40:10] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.5568143676879345
+[19:40:10] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.6920747368620823
+[19:40:10] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.959552690254327
+[19:40:10] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 1.205806638589138
+[19:40:12] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.36729605864240966
+[19:40:12] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.7508954715892742
+[19:40:12] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.6274886089247502
+[19:40:15] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.4696404098532412
+[19:40:15] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.772620076949238
+[19:40:15] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 1.078784391535919
+[19:40:15] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 1.448143708446878
+[19:40:15] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 1.7021023420115853
+[19:40:16] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.3058412859031705
+[19:40:16] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.5486446036279631
+[19:40:16] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.7710574666489265
+[19:40:16] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.25136293999480586
+[19:40:16] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.38093795661302465
+[19:40:22] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.274492345728504
+[19:40:22] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.48289893615924484
+[19:40:22] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.2975367934602673
+[19:40:22] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.3310092047947819
+[19:40:22] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.7100816187193004
+[19:40:22] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.9540127998353682
+[19:40:22] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.3941396266783386
+[19:40:22] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 1.2128616736994218
+[19:40:22] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.48312181695632717
+[19:40:23] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.381741337150288
+[19:40:23] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.6778787364644359
+[19:40:23] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.29210757888972694
+[19:40:23] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.38076655678594307
+[19:40:23] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.709878643905995
+[19:40:23] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.46100263819141674
+[19:40:23] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.8125180144231763
+[19:40:23] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 1.1242212494425985
+[19:40:23] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 1.4778759196232159
+[19:40:23] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 1.8404542087425853
+[19:40:23] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 2.1907970016160334
+[19:40:23] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 2.6196005863642995
+[19:40:23] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 2.9219445720463
+[19:40:23] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 3.2645969908038523
+[19:40:23] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 3.6392039842914983
+[19:40:23] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 4.107900858899484
+[19:40:24] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 1.4048291181629793
+[19:40:24] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 1.4048291181629793
+[19:40:24] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 1.0553086715079871
+[19:40:24] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.7016052017461334
+[19:40:24] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 1.4338536477102934
+[19:40:24] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 1.4122817691062437
+[19:40:24] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 1.0564886070018247
+[19:40:24] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.6921465286238799
+[19:40:24] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.3418757561015582
+[19:41:18] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.9499152077916051
+[19:41:18] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.9499152077916051
+[19:41:18] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.9499152077916051
+[19:41:18] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.662162110109648
+[19:41:18] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.9499152077916051
+[19:41:18] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.6608150013312297
+[19:41:18] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.3664604421275044
+[19:41:18] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.9499152077916051
+[19:41:18] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.9499152077916051
+[19:41:18] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.9499152077916051
+[19:41:18] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.6459125375589565
+[19:41:18] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.33234654230318483
+[19:41:28] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved wrongly! 0.5706117525451191
+[19:41:28] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved wrongly! 0.37023562619310724
+[19:42:22] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved wrongly! 0.2770651970899962
+[19:42:42] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.3815910164167917
+[19:42:42] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.2663314983882401
+[19:42:42] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 1.0281137475338937
+[19:42:42] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.6277604216375607
+[19:43:09] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.3667224310338497
+[19:43:09] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.40255875082749526
+[19:43:09] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.43481143778734577
+[19:43:09] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.46383885528223345
+[19:43:09] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.48996353033555806
+[19:43:33] [Server thread/INFO]: [Not Secure] <Vicleoon> -656 ~ 1024
+[19:44:23] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved wrongly! 0.5619540969021273
+[19:44:23] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved wrongly! 0.7216034260400193
+[19:44:23] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved wrongly! 0.6701064698555683
+[19:44:23] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved wrongly! 1.0386363245912662
+[19:44:46] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved wrongly! 0.3072089633089945
+[19:44:57] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved wrongly! 0.25627510652006136
+[19:44:57] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved wrongly! 0.5879903625595944
+[19:44:58] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved wrongly! 0.264589033385505
+[19:44:58] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved wrongly! 0.6213032517757711
+[19:44:58] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved wrongly! 0.8335202945221454
+[19:44:58] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved wrongly! 1.0922566865659746
+[19:44:59] [Server thread/WARN]: Oak Boat with Chest (vehicle of dimasroa) moved wrongly! 1.3244447794377265
+[19:46:25] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.3272748951626454
+[19:46:25] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.5895843455714385
+[19:46:25] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.8621875875271598
+[19:46:25] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.4807742239659092
+[19:46:25] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.8135325694481708
+[19:46:25] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 1.1529393252269529
+[19:46:25] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 1.4983179042737902
+[19:46:25] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 1.1442602108272695
+[19:46:26] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 1.8490598849186881
+[19:46:26] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 1.435297051837324
+[19:46:26] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 2.204618145883842
+[19:46:26] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 2.5645012056293126
+[19:46:26] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.4111447917910027
+[19:46:26] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 2.9282669207711933
+[19:46:26] [Server thread/WARN]: Oak Boat (vehicle of lestaa) moved wrongly! 0.3202969615256279
+[19:46:26] [Server thread/WARN]: Oak Boat (vehicle of Vicleoon) moved wrongly! 0.576052236245232
+[19:46:33] [Server thread/INFO]: [Not Secure] <Vicleoon> regorland.net
+[19:46:52] [Server thread/INFO]: Vicleoon lost connection: Disconnected
+[19:46:52] [Server thread/INFO]: Vicleoon left the game
+[19:46:56] [Server thread/INFO]: dimasroa lost connection: Disconnected
+[19:46:56] [Server thread/INFO]: dimasroa left the game
+[19:46:58] [Server thread/INFO]: lestaa lost connection: Disconnected
+[19:46:58] [Server thread/INFO]: lestaa left the game
