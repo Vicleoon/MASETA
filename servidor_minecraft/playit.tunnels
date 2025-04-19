@@ -9,34 +9,34 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "through-l.gl.joinmc.link",
-          "assigned_srv": "through-l.gl.joinmc.link",
+          "assigned_domain": "quality-peeing.gl.joinmc.link",
+          "assigned_srv": "quality-peeing.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "47f95239-a2bf-404f-9b6f-ddf8899d2eb9",
-          "ip_hostname": "24.ip.gl.ply.gg",
+          "id": "7c0275e9-af43-41a3-96a3-c173e71135df",
+          "ip_hostname": "27.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 5767,
-          "port_start": 5766,
+          "port_end": 27553,
+          "port_start": 27552,
           "region": "global",
-          "static_ip4": "147.185.221.24",
-          "static_ip6": "2602:fbaf:0:1::18",
-          "tunnel_ip": "2602:fbaf:0:1::18"
+          "static_ip4": "147.185.221.27",
+          "static_ip6": "2602:fbaf:0:1::1b",
+          "tunnel_ip": "2602:fbaf:0:1::1b"
         },
         "status": "allocated"
       },
-      "created_at": "2025-02-23T18:47:15.431796Z",
+      "created_at": "2025-04-10T19:17:38.704963Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "644f6b17-aea8-4fde-a732-3820f7e48b5c",
+      "id": "522116e5-99d6-4f6d-9878-a82e4eff0a0e",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "703259d8-f87d-435a-af2b-e0e17f4ca802",
-          "agent_name": "dalreeeeeeeeeeeeee",
+          "agent_id": "4215495e-8c4c-4a85-bdac-069d620817f1",
+          "agent_name": "server dima y leta",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
