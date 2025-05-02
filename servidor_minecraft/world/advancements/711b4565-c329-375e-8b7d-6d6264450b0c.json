@@ -388,6 +388,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-02 01:08:43 +0000",
       "bread": "2025-05-02 04:31:11 +0000",
+      "potato": "2025-05-02 21:59:36 +0000",
       "cooked_beef": "2025-05-02 02:00:07 +0000",
       "carrot": "2025-05-02 04:48:10 +0000"
     },
@@ -1625,6 +1626,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-05-02 04:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-02 21:53:31 +0000"
     },
     "done": true
   },
