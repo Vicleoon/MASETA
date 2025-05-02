@@ -102,3 +102,13 @@
 [04:36:47] [Server thread/INFO]: Banned eriksen351+: Banned by an operator.
 [04:36:53] [Server thread/INFO]: Vicleoon[/127.39.109.39:54167] logged in with entity id 16264 at (-250.86330719894008, 61.07180520116674, -647.3881192759897)
 [04:36:53] [Server thread/INFO]: Vicleoon joined the game
+[04:41:35] [Server thread/INFO]: Vicleoon was slain by Iron Golem
+[04:42:51] [Server thread/INFO]: eriksen351 tried to swim in lava
+[04:44:05] [Server thread/INFO]: eriksen351 was slain by Zombie
+[04:46:49] [Server thread/INFO]: Vicleoon was slain by Zombie
+[04:47:17] [Server thread/INFO]: Vicleoon was slain by Zombie
+[04:48:12] [Server thread/INFO]: eriksen351 burned to death
+[04:48:54] [Server thread/INFO]: Villager class_1646['Villager'/6536, l='ServerLevel[world]', x=-324.85, y=70.56, z=-520.55] died, message: 'Villager was slain by Vicleoon'
+[04:48:56] [Server thread/INFO]: Villager class_1646['Villager'/6598, l='ServerLevel[world]', x=-335.30, y=78.00, z=-498.52] died, message: 'Villager was slain by Zombie'
+[04:49:05] [Server thread/INFO]: Villager class_1646['Villager'/6537, l='ServerLevel[world]', x=-336.61, y=78.56, z=-498.57] died, message: 'Villager was slain by Zombie Villager'
+[04:49:11] [Server thread/INFO]: Villager class_1646['Villager'/6561, l='ServerLevel[world]', x=-337.20, y=78.56, z=-498.63] died, message: 'Villager was slain by Zombie Villager'
