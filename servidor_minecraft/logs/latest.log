@@ -58,3 +58,27 @@
 [03:36:58] [Server thread/INFO]: [Not Secure] <Vicleoon> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 [03:48:36] [Server thread/INFO]: [Not Secure] <eriksen351> ZZZZZZZZZZ
 [03:48:38] [Server thread/INFO]: [Not Secure] <eriksen351> ZZ
+[03:59:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-269, y=69, z=-528} class_2338{x=-270, y=68, z=-528}
+[03:59:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-269, y=69, z=-528} class_2338{x=-270, y=68, z=-528}
+[04:02:12] [Server thread/INFO]: eriksen351 has made the advancement [Hot Stuff]
+[04:02:17] [Server thread/WARN]: eriksen351 moved too quickly! 5.434341508462467,2.0,8.385619407418403
+[04:03:42] [Server thread/INFO]: eriksen351 has made the advancement [Isn't It Iron Pick]
+[04:05:14] [Server thread/INFO]: eriksen351 lost connection: Timed out
+[04:05:14] [Server thread/INFO]: eriksen351 left the game
+[04:05:14] [Server thread/WARN]: handleDisconnection() called twice
+[04:05:19] [Server thread/INFO]: Vicleoon lost connection: Timed out
+[04:05:19] [Server thread/INFO]: Vicleoon left the game
+[04:05:22] [Server thread/INFO]: eriksen351[/127.66.15.138:52843] logged in with entity id 6517 at (-319.21618723154296, 51.0, -519.478765358727)
+[04:05:22] [Server thread/INFO]: eriksen351 joined the game
+[04:05:27] [Server thread/INFO]: Vicleoon[/127.39.109.39:44341] logged in with entity id 6805 at (-342.34982088270857, 70.0, -512.9970425465488)
+[04:05:27] [Server thread/INFO]: Vicleoon joined the game
+[04:05:44] [Server thread/INFO]: Disconnecting eriksen351 (/127.66.15.138:59869): The server is full!
+[04:05:44] [Server thread/INFO]: eriksen351 (/127.66.15.138:59869) lost connection: The server is full!
+[04:05:44] [Server thread/WARN]: handleDisconnection() called twice
+[04:05:52] [Server thread/INFO]: Disconnecting eriksen351 (/127.66.15.138:55159): The server is full!
+[04:05:52] [Server thread/INFO]: eriksen351 (/127.66.15.138:55159) lost connection: The server is full!
+[04:05:52] [Server thread/WARN]: handleDisconnection() called twice
+[04:06:07] [Server thread/INFO]: eriksen351 lost connection: Timed out
+[04:06:07] [Server thread/INFO]: eriksen351 left the game
+[04:06:14] [Server thread/INFO]: eriksen351[/127.66.15.138:48287] logged in with entity id 7258 at (-318.69999998807907, 50.0, -515.3000000119209)
+[04:06:14] [Server thread/INFO]: eriksen351 joined the game
