@@ -99,3 +99,16 @@
 [22:18:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=26, y=-25, z=-1179} class_2338{x=27, y=-25, z=-1179}
 [22:18:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=26, y=-25, z=-1178} class_2338{x=27, y=-25, z=-1179}
 [22:18:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=23, y=-25, z=-1180} class_2338{x=24, y=-26, z=-1179}
+[22:20:59] [Server thread/INFO]: eriksen351 was blown up by Creeper
+[22:28:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=24, y=-21, z=-1166} class_2338{x=24, y=-21, z=-1167}
+[22:28:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=24, y=-21, z=-1166} class_2338{x=24, y=-21, z=-1167}
+[22:28:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=24, y=-21, z=-1166} class_2338{x=24, y=-21, z=-1167}
+[22:28:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=25, y=-21, z=-1163} class_2338{x=24, y=-21, z=-1167}
+[22:29:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=17, y=-17, z=-1145} class_2338{x=16, y=-18, z=-1145}
+[22:29:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=19, y=-19, z=-1142} class_2338{x=19, y=-18, z=-1141}
+[22:29:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=19, y=-19, z=-1142} class_2338{x=19, y=-18, z=-1141}
+[22:29:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=19, y=-19, z=-1142} class_2338{x=19, y=-18, z=-1141}
+[22:29:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=16, y=-17, z=-1142} class_2338{x=16, y=-19, z=-1141}
+[22:29:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=16, y=-17, z=-1142} class_2338{x=16, y=-19, z=-1141}
+[22:34:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=31, y=-22, z=-1192} class_2338{x=31, y=-23, z=-1191}
+[22:39:04] [Server thread/WARN]: eriksen351 moved wrongly!
