@@ -68,3 +68,34 @@
 [21:49:26] [Server thread/INFO]: eriksen351 joined the game
 [21:51:42] [Server thread/INFO]: [Not Secure] <Vicleoon> -320 -480
 [21:53:15] [Server thread/INFO]: [Not Secure] <Vicleoon> -320 -480w
+[22:03:22] [Server thread/INFO]: [Not Secure] <Vicleoon> 63 -961
+[22:11:48] [Server thread/INFO]: eriksen351 fell from a high place
+[22:12:59] [Server thread/INFO]: [Not Secure] <Vicleoon> zzzzzzzzzzzzzzzzzz
+[22:15:39] [Server thread/INFO]: No entity was found
+[22:16:29] [Server thread/INFO]: [Not Secure] <Vicleoon> 26 -1190
+[22:16:31] [Server thread/INFO]: [Not Secure] <Vicleoon> 26 -1190
+[22:16:31] [Server thread/INFO]: [Not Secure] <Vicleoon> 26 -1190
+[22:16:32] [Server thread/INFO]: [Not Secure] <Vicleoon> 26 -1190
+[22:16:34] [Server thread/INFO]: [Not Secure] <Vicleoon> 26 -1190
+[22:16:35] [Server thread/INFO]: [Not Secure] <Vicleoon> 26 -1190
+[22:16:35] [Server thread/INFO]: [Not Secure] <Vicleoon> 26 -1190
+[22:16:36] [Server thread/INFO]: [Not Secure] <Vicleoon> 26 -1190
+[22:16:36] [Server thread/INFO]: [Not Secure] <Vicleoon> 26 -1190
+[22:16:37] [Server thread/INFO]: [Not Secure] <Vicleoon> 26 -1190
+[22:16:38] [Server thread/INFO]: [Not Secure] <Vicleoon> 26 -1190
+[22:17:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=24, y=-25, z=-1184} class_2338{x=23, y=-26, z=-1183}
+[22:17:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=24, y=-25, z=-1184} class_2338{x=23, y=-26, z=-1183}
+[22:17:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=23, y=-25, z=-1184} class_2338{x=23, y=-25, z=-1185}
+[22:17:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=23, y=-25, z=-1184} class_2338{x=23, y=-25, z=-1185}
+[22:17:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=22, y=-25, z=-1183} class_2338{x=23, y=-25, z=-1185}
+[22:17:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=23, y=-25, z=-1181} class_2338{x=23, y=-25, z=-1185}
+[22:17:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=23, y=-25, z=-1181} class_2338{x=23, y=-25, z=-1185}
+[22:17:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=23, y=-25, z=-1181} class_2338{x=23, y=-25, z=-1185}
+[22:18:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=23, y=-24, z=-1184} class_2338{x=23, y=-25, z=-1186}
+[22:18:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=23, y=-24, z=-1184} class_2338{x=23, y=-25, z=-1186}
+[22:18:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=23, y=-24, z=-1184} class_2338{x=23, y=-25, z=-1186}
+[22:18:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=23, y=-24, z=-1184} class_2338{x=23, y=-25, z=-1186}
+[22:18:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=23, y=-24, z=-1184} class_2338{x=23, y=-25, z=-1186}
+[22:18:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=26, y=-25, z=-1179} class_2338{x=27, y=-25, z=-1179}
+[22:18:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=26, y=-25, z=-1178} class_2338{x=27, y=-25, z=-1179}
+[22:18:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=23, y=-25, z=-1180} class_2338{x=24, y=-26, z=-1179}
