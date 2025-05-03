@@ -112,3 +112,26 @@
 [22:29:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=16, y=-17, z=-1142} class_2338{x=16, y=-19, z=-1141}
 [22:34:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=31, y=-22, z=-1192} class_2338{x=31, y=-23, z=-1191}
 [22:39:04] [Server thread/WARN]: eriksen351 moved wrongly!
+[23:03:29] [Server thread/INFO]: eriksen351 was slain by Vicleoon
+[23:07:47] [Server thread/INFO]: eriksen351 was blown up by Creeper
+[23:08:36] [Server thread/INFO]: Vicleoon was slain by Zombie
+[23:09:01] [Server thread/INFO]: eriksen351 hit the ground too hard
+[23:09:33] [Server thread/INFO]: eriksen351 fell from a high place
+[23:10:00] [Server thread/INFO]: eriksen351 fell from a high place
+[23:10:59] [Server thread/INFO]: Vicleoon was slain by Zombie
+[23:11:02] [Server thread/INFO]: Incorrect argument for command
+[23:11:02] [Server thread/INFO]: ...riksen351 0 400 0KICK ERIKSEN351<--[HERE]
+[23:11:12] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:11:12] [Server thread/INFO]: KICK ERIKSEN351<--[HERE]
+[23:11:21] [Server thread/INFO]: eriksen351 lost connection: Kicked by an operator
+[23:11:21] [Server thread/INFO]: eriksen351 left the game
+[23:11:21] [Server thread/INFO]: Kicked eriksen351: Kicked by an operator
+[23:11:21] [Server thread/WARN]: handleDisconnection() called twice
+[23:11:27] [Server thread/INFO]: eriksen351[/127.66.15.138:37743] logged in with entity id 41190 at (16.68558093756061, 80.0, -289.05309546418124)
+[23:11:27] [Server thread/INFO]: eriksen351 joined the game
+[23:11:34] [Server thread/INFO]: eriksen351 lost connection: Kicked by an operator
+[23:11:34] [Server thread/INFO]: eriksen351 left the game
+[23:11:34] [Server thread/INFO]: Kicked eriksen351: Kicked by an operator
+[23:11:34] [Server thread/WARN]: handleDisconnection() called twice
+[23:11:39] [Server thread/INFO]: eriksen351[/127.66.15.138:42715] logged in with entity id 41512 at (17.089173862251037, 84.16610926093821, -324.30531357616553)
+[23:11:39] [Server thread/INFO]: eriksen351 joined the game
