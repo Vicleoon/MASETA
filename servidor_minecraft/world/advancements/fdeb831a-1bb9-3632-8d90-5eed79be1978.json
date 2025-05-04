@@ -2196,5 +2196,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 03:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-04 03:53:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }

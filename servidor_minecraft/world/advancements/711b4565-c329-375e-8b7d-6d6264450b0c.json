@@ -397,10 +397,12 @@
       "cooked_porkchop": "2025-05-02 01:08:43 +0000",
       "bread": "2025-05-02 04:31:11 +0000",
       "rotten_flesh": "2025-05-03 22:15:33 +0000",
+      "suspicious_stew": "2025-05-04 03:50:24 +0000",
       "cooked_mutton": "2025-05-03 21:54:56 +0000",
       "potato": "2025-05-02 21:59:36 +0000",
       "salmon": "2025-05-03 21:53:52 +0000",
       "cooked_beef": "2025-05-02 02:00:07 +0000",
+      "golden_carrot": "2025-05-04 03:50:56 +0000",
       "carrot": "2025-05-02 04:48:10 +0000"
     },
     "done": false
@@ -2447,6 +2449,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-05-03 23:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-05-04 03:50:24 +0000"
     },
     "done": true
   },
