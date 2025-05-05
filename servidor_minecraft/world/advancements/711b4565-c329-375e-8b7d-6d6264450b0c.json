@@ -1784,6 +1784,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-05-05 23:26:38 +0000",
+      "minecraft:soul_sand_valley": "2025-05-05 23:28:10 +0000",
       "minecraft:basalt_deltas": "2025-05-02 23:36:21 +0000"
     },
     "done": false
@@ -2550,6 +2551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-05 23:28:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-05-05 22:41:26 +0000"
@@ -2577,6 +2584,12 @@
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-05-05 22:41:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-05 23:28:25 +0000"
     },
     "done": true
   },
