@@ -91,3 +91,4 @@
 [22:41:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-237, y=51, z=-710} class_2338{x=-237, y=52, z=-710}
 [22:41:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-237, y=51, z=-710} class_2338{x=-237, y=52, z=-710}
 [22:45:27] [Server thread/WARN]: eriksen351 moved too quickly! 9.500075874035474,1.128967839911212,3.108211496694196
+[22:53:10] [Server thread/INFO]: Villager class_1646['Villager'/158, l='ServerLevel[world]', x=-322.50, y=65.69, z=-498.46] died, message: 'Villager burned to death'
