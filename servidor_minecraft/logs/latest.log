@@ -1,51 +1,93 @@
-[03:40:14] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
-[03:40:15] [main/INFO]: Loading 4 mods:
+[22:16:18] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
+[22:16:19] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.20.4
-[03:40:15] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MASETA/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[03:40:32] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:40:37] [main/INFO]: Loaded 7 recipes
-[03:40:38] [main/INFO]: Loaded 1271 advancements
-[03:40:39] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[03:40:39] [Server thread/INFO]: Loading properties
-[03:40:40] [Server thread/INFO]: Default game type: SURVIVAL
-[03:40:40] [Server thread/INFO]: Generating keypair
-[03:40:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:40:40] [Server thread/INFO]: Using epoll channel type
-[03:40:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:40:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:40:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:40:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:40:41] [Server thread/INFO]: Preparing level "world"
-[03:40:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:40:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:40:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:40:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:40:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:40:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:40:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:40:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:40:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:40:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:40:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:41:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:41:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:41:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:41:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:41:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:41:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:41:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:41:03] [Worker-Main-1/INFO]: Preparing spawn area: 78%
-[03:41:04] [Server thread/INFO]: Time elapsed: 8741 ms
-[03:41:04] [Server thread/INFO]: Done (22.670s)! For help, type "help"
-[03:41:24] [Server thread/INFO]: Vicleoon[/127.39.109.39:39233] logged in with entity id 63 at (-358.69999998807907, 74.0, -519.6999999880791)
-[03:41:24] [Server thread/INFO]: Vicleoon joined the game
-[03:41:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[03:41:45] [Server thread/INFO]: eriksen351[/127.66.15.138:57101] logged in with entity id 434 at (-347.77661432873447, 70.0, -521.466890963375)
-[03:41:45] [Server thread/INFO]: eriksen351 joined the game
-[03:42:14] [Server thread/INFO]: [Not Secure] <Vicleoon> ERIK
-[03:42:17] [Server thread/INFO]: [Not Secure] <Vicleoon> me escuhchas
-[03:46:45] [Server thread/INFO]: [Not Secure] <Vicleoon> w
-[03:58:31] [Server thread/INFO]: [Not Secure] <Vicleoon> pone altavoz wachin
+[22:16:19] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MASETA/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:16:31] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:16:35] [main/INFO]: Loaded 7 recipes
+[22:16:35] [main/INFO]: Loaded 1271 advancements
+[22:16:36] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[22:16:36] [Server thread/INFO]: Loading properties
+[22:16:36] [Server thread/INFO]: Default game type: SURVIVAL
+[22:16:36] [Server thread/INFO]: Generating keypair
+[22:16:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:16:36] [Server thread/INFO]: Using epoll channel type
+[22:16:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:16:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:16:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:16:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:16:36] [Server thread/INFO]: Preparing level "world"
+[22:16:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:16:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:16:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:16:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:16:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:16:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:16:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:16:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:16:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:16:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:16:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:16:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:16:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:16:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:16:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:16:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:16:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:16:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:16:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:16:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:16:55] [Server thread/INFO]: Time elapsed: 9434 ms
+[22:16:55] [Server thread/INFO]: Done (18.628s)! For help, type "help"
+[22:17:01] [Server thread/INFO]: eriksen351[/127.66.15.138:38759] logged in with entity id 64 at (-55.53393454259801, 62.11076428890229, -817.7926934203693)
+[22:17:01] [Server thread/INFO]: eriksen351 joined the game
+[22:17:05] [Server thread/INFO]: Vicleoon[/127.39.109.39:44335] logged in with entity id 66 at (-309.6794095753151, 78.0, -497.30000001192093)
+[22:17:05] [Server thread/INFO]: Vicleoon joined the game
+[22:17:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3948ms or 78 ticks behind
+[22:17:42] [Server thread/INFO]: [Not Secure] <Vicleoon> -310 -490
+[22:18:59] [Server thread/WARN]: Spruce Boat (vehicle of eriksen351) moved too quickly! -9.498631109577587,0.0,-3.9304813082919736
+[22:18:59] [Server thread/WARN]: Spruce Boat (vehicle of eriksen351) moved too quickly! -9.878892869982975,0.0,-4.0489943161244355
+[22:18:59] [Server thread/WARN]: Spruce Boat (vehicle of eriksen351) moved too quickly! -10.258942745788985,0.0,-4.168697438393792
+[22:19:50] [Server thread/WARN]: eriksen351 moved too quickly! 0.22838123705300717,-11.199729819260035,-0.1503239520520765
+[22:19:52] [Server thread/WARN]: eriksen351 moved too quickly! 0.23765096439364441,-11.141611616128863,-0.10794383487746018
+[22:20:44] [Server thread/INFO]: [Not Secure] <Vicleoon> zzzzzzzzzzzzzzzzzzzzzzz
+[22:20:45] [Server thread/INFO]: [Not Secure] <Vicleoon> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[22:20:47] [Server thread/INFO]: [Not Secure] <Vicleoon> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[22:20:49] [Server thread/INFO]: [Not Secure] <Vicleoon> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[22:20:51] [Server thread/INFO]: [Not Secure] <Vicleoon> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[22:21:43] [Server thread/WARN]: eriksen351 moved wrongly!
+[22:29:57] [Server thread/WARN]: Spruce Boat (vehicle of eriksen351) moved wrongly! 0.5427186172111647
+[22:29:57] [Server thread/WARN]: Spruce Boat (vehicle of eriksen351) moved wrongly! 0.8834070791194741
+[22:29:57] [Server thread/WARN]: Spruce Boat (vehicle of eriksen351) moved wrongly! 1.2446943693862662
+[22:29:57] [Server thread/WARN]: Spruce Boat (vehicle of eriksen351) moved wrongly! 1.6124817066647616
+[22:29:57] [Server thread/WARN]: Spruce Boat (vehicle of eriksen351) moved wrongly! 1.9828619216362997
+[22:29:57] [Server thread/WARN]: Spruce Boat (vehicle of eriksen351) moved wrongly! 2.414156511608102
+[22:29:57] [Server thread/WARN]: Spruce Boat (vehicle of eriksen351) moved wrongly! 2.7539058021879774
+[22:29:57] [Server thread/WARN]: Spruce Boat (vehicle of eriksen351) moved wrongly! 0.5614173149183159
+[22:29:57] [Server thread/WARN]: Spruce Boat (vehicle of eriksen351) moved wrongly! 0.5614173149183159
+[22:29:57] [Server thread/WARN]: Spruce Boat (vehicle of eriksen351) moved wrongly! 0.5614173149183159
+[22:29:57] [Server thread/WARN]: Spruce Boat (vehicle of eriksen351) moved wrongly! 0.5614173149183159
+[22:29:57] [Server thread/WARN]: Spruce Boat (vehicle of eriksen351) moved wrongly! 0.5614173149183159
+[22:29:57] [Server thread/WARN]: Spruce Boat (vehicle of eriksen351) moved wrongly! 0.5614173149183159
+[22:29:57] [Server thread/WARN]: Spruce Boat (vehicle of eriksen351) moved wrongly! 0.3542234779957596
+[22:30:52] [Server thread/WARN]: eriksen351 moved too quickly! -9.343200924436587,0.023088109101550458,-3.9997840762739543
+[22:33:58] [Server thread/INFO]: [Not Secure] <Vicleoon> ● Arena | 154● Algas (Kelp) | 125● Slabs (Medios Bloques) | 112● Bloques de Hojas | 26● Escaleras | 24● Bloques Temporales | 14● Barcos | 6● Bloques de Construcción | 10● Cofres | 3● Trampillas | 2● Carteles | 2● Cubos de Agua | 2● Tolvas | 1 ● Botones | 1
+[22:35:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-252, y=63, z=-586} class_2338{x=-252, y=61, z=-585}
+[22:35:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-252, y=63, z=-586} class_2338{x=-252, y=61, z=-585}
+[22:35:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-252, y=63, z=-587} class_2338{x=-252, y=61, z=-585}
+[22:35:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-252, y=63, z=-587} class_2338{x=-252, y=61, z=-585}
+[22:35:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-252, y=63, z=-587} class_2338{x=-252, y=61, z=-585}
+[22:35:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-246, y=63, z=-588} class_2338{x=-248, y=61, z=-589}
+[22:36:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-258, y=63, z=-588} class_2338{x=-260, y=62, z=-588}
+[22:36:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-258, y=63, z=-588} class_2338{x=-260, y=62, z=-588}
+[22:36:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-258, y=63, z=-588} class_2338{x=-260, y=62, z=-588}
+[22:36:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-258, y=63, z=-588} class_2338{x=-260, y=62, z=-588}
+[22:36:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-274, y=62, z=-590} class_2338{x=-276, y=62, z=-589}
+[22:40:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-262, y=52, z=-635} class_2338{x=-262, y=50, z=-635}
+[22:41:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-274, y=53, z=-680} class_2338{x=-274, y=52, z=-680}
+[22:41:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-237, y=56, z=-704} class_2338{x=-237, y=54, z=-704}
+[22:41:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-237, y=51, z=-710} class_2338{x=-237, y=52, z=-710}
+[22:41:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-237, y=51, z=-710} class_2338{x=-237, y=52, z=-710}
+[22:45:27] [Server thread/WARN]: eriksen351 moved too quickly! 9.500075874035474,1.128967839911212,3.108211496694196

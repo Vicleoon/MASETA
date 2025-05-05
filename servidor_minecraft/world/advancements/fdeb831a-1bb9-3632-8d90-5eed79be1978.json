@@ -1112,6 +1112,7 @@
       "minecraft:skeleton": "2025-05-02 02:23:37 +0000",
       "minecraft:spider": "2025-05-02 04:15:16 +0000",
       "minecraft:zombie": "2025-05-02 02:00:04 +0000",
+      "minecraft:creeper": "2025-05-05 22:20:27 +0000",
       "minecraft:zombie_villager": "2025-05-02 21:49:09 +0000"
     },
     "done": false
@@ -2205,6 +2206,30 @@
   "minecraft:recipes/decorations/birch_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-05-04 03:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-05 22:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-05 22:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-05 22:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2025-05-05 22:21:53 +0000"
     },
     "done": true
   },
