@@ -131,3 +131,6 @@
 [23:46:59] [Server thread/INFO]: Vicleoon left the game
 [23:47:18] [Server thread/INFO]: Vicleoon[/127.39.109.39:46691] logged in with entity id 34328 at (-178.45511615427137, 221.5, -784.0713688935914)
 [23:47:18] [Server thread/INFO]: Vicleoon joined the game
+[23:56:56] [Server thread/INFO]: Vicleoon lost connection: Disconnected
+[23:56:56] [Server thread/INFO]: Vicleoon left the game
+[23:57:47] [Server thread/INFO]: Villager class_1646['Librarian'/28692, l='ServerLevel[world]', x=-327.70, y=66.05, z=-532.50] died, message: 'Librarian tried to swim in lava'
