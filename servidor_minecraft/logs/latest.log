@@ -1,12 +1,60 @@
-[00:02:51] [Server thread/INFO]: [Not Secure] <eriksen351> DEPEPEPE
-[00:03:12] [Server thread/INFO]: eriksen351 was blown up by Creeper
-[00:10:31] [Server thread/INFO]: Villager class_1646['Villager'/38053, l='ServerLevel[world]', x=-345.50, y=71.06, z=-530.91] died, message: 'Villager was slain by eriksen351'
-[00:19:00] [Server thread/INFO]: Vicleoon[/127.39.109.39:45017] logged in with entity id 42047 at (-176.69999998807907, 189.1875, -784.4674676728179)
-[00:19:00] [Server thread/INFO]: Vicleoon joined the game
-[00:19:42] [Server thread/INFO]: [Not Secure] <Vicleoon> contestaaaaaaaaa
-[00:20:47] [Server thread/INFO]: eriksen351 lost connection: Kicked by an operator
-[00:20:47] [Server thread/INFO]: eriksen351 left the game
-[00:20:47] [Server thread/INFO]: Kicked eriksen351: Kicked by an operator
-[00:20:48] [Server thread/WARN]: handleDisconnection() called twice
-[00:39:08] [Server thread/INFO]: Vicleoon lost connection: Disconnected
-[00:39:08] [Server thread/INFO]: Vicleoon left the game
+[23:01:16] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
+[23:01:16] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.20.4
+[23:01:16] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MASETA/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[23:01:25] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:01:29] [main/INFO]: Loaded 7 recipes
+[23:01:29] [main/INFO]: Loaded 1271 advancements
+[23:01:30] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[23:01:30] [Server thread/INFO]: Loading properties
+[23:01:30] [Server thread/INFO]: Default game type: SURVIVAL
+[23:01:30] [Server thread/INFO]: Generating keypair
+[23:01:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:01:30] [Server thread/INFO]: Using epoll channel type
+[23:01:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:01:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:01:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:01:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:01:30] [Server thread/INFO]: Preparing level "world"
+[23:01:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:01:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:01:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:01:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:01:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:01:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:01:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:01:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:01:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:01:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:01:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:01:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:01:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:01:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:01:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:01:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:01:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:01:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:01:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:01:45] [Worker-Main-1/INFO]: Preparing spawn area: 77%
+[23:01:45] [Server thread/INFO]: Time elapsed: 9387 ms
+[23:01:45] [Server thread/INFO]: Done (14.982s)! For help, type "help"
+[23:01:51] [Server thread/INFO]: Vicleoon[/127.39.109.39:41153] logged in with entity id 64 at (-329.30000001192093, 66.0, -532.5061056128061)
+[23:01:51] [Server thread/INFO]: Vicleoon joined the game
+[23:01:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2767ms or 55 ticks behind
+[23:02:01] [Server thread/INFO]: Disconnecting eriksen351 (/127.66.15.138:32849): You are banned from this server.
+Reason: 5 años
+[23:02:01] [Server thread/INFO]: eriksen351 (/127.66.15.138:32849) lost connection: You are banned from this server.
+Reason: 5 años
+[23:02:01] [Server thread/WARN]: handleDisconnection() called twice
+[23:02:41] [Server thread/INFO]: Disconnecting eriksen351 (/127.66.15.138:51147): You are banned from this server.
+Reason: 5 años
+[23:02:41] [Server thread/INFO]: eriksen351 (/127.66.15.138:51147) lost connection: You are banned from this server.
+Reason: 5 años
+[23:02:41] [Server thread/WARN]: handleDisconnection() called twice
+[23:02:49] [Server thread/INFO]: Unbanned eriksen351
+[23:03:03] [Server thread/INFO]: eriksen351[/127.66.15.138:50105] logged in with entity id 871 at (-180.70763307921615, 187.5, -784.2380565913795)
+[23:03:03] [Server thread/INFO]: eriksen351 joined the game
+[23:06:03] [Server thread/WARN]: eriksen351 moved too quickly! 0.4671077099183947,-16.035973470669454,0.11693941678583997
