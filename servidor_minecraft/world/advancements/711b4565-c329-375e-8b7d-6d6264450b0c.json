@@ -1192,10 +1192,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-06 02:17:18 +0000",
+      "minecraft:blaze": "2025-05-08 23:23:40 +0000",
       "minecraft:skeleton": "2025-05-02 04:26:16 +0000",
+      "minecraft:witch": "2025-05-02 02:03:06 +0000",
+      "minecraft:wither_skeleton": "2025-05-08 23:23:24 +0000",
       "minecraft:piglin": "2025-05-05 23:26:52 +0000",
       "minecraft:vindicator": "2025-05-06 02:17:18 +0000",
-      "minecraft:witch": "2025-05-02 02:03:06 +0000",
+      "minecraft:magma_cube": "2025-05-08 23:21:01 +0000",
       "minecraft:spider": "2025-05-02 02:01:29 +0000",
       "minecraft:vex": "2025-05-06 03:16:29 +0000",
       "minecraft:zombie": "2025-05-02 02:01:37 +0000",
@@ -2815,9 +2818,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-08 23:21:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-05-08 23:13:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-08 23:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-08 23:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-08 23:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-05-08 23:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-08 23:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-08 23:24:07 +0000"
     },
     "done": true
   },
