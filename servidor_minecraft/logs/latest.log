@@ -1,49 +1,63 @@
-[00:01:07] [Server thread/WARN]: eriksen351 moved too quickly! 0.28792439571719797,-10.61202295686212,0.06462293017943921
-[00:02:18] [Server thread/WARN]: eriksen351 moved too quickly! -6.946048846311214,2.0013359791121417,7.097117759402067
-[00:03:17] [Server thread/INFO]: [Not Secure] <Vicleoon> -301 2
-[00:08:49] [Server thread/INFO]: eriksen351 has made the advancement [Take Aim]
-[00:09:29] [Server thread/WARN]: eriksen351 moved too quickly! 0.0,-10.505147032368878,0.25949106996156956
-[00:11:55] [Server thread/INFO]: eriksen351 burned to death
-[00:13:35] [Server thread/INFO]: Vicleoon lost connection: Disconnected
-[00:13:35] [Server thread/INFO]: Vicleoon left the game
-[00:13:49] [Server thread/INFO]: eriksen351 lost connection: Disconnected
-[00:13:49] [Server thread/INFO]: eriksen351 left the game
-[00:13:49] [Server thread/INFO]: Kicked eriksen351: Kicked by an operator
-[00:13:49] [Server thread/WARN]: handleDisconnection() called twice
-[00:13:55] [Server thread/INFO]: eriksen351[/127.66.15.138:51595] logged in with entity id 27643 at (-329.9031038211296, 67.16610926093821, -535.5027941476955)
-[00:13:55] [Server thread/INFO]: eriksen351 joined the game
-[00:14:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:14:00] [Server thread/INFO]: kieck eriksen351<--[HERE]
-[00:14:05] [Server thread/INFO]: Kicked eriksen351: Kicked by an operator
-[00:14:05] [Server thread/INFO]: eriksen351 lost connection: Kicked by an operator
-[00:14:05] [Server thread/INFO]: eriksen351 left the game
-[00:14:09] [Server thread/INFO]: eriksen351[/127.66.15.138:45379] logged in with entity id 28226 at (-329.54726874902434, 62.0, -546.9900929982871)
-[00:14:09] [Server thread/INFO]: eriksen351 joined the game
-[00:14:24] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:14:24] [Server thread/INFO]: kikick eriksen351 XD<--[HERE]
-[00:14:35] [Server thread/INFO]: Kicked eriksen351: XD
-[00:14:35] [Server thread/INFO]: eriksen351 lost connection: XD
-[00:14:35] [Server thread/INFO]: eriksen351 left the game
-[00:14:39] [Server thread/INFO]: eriksen351[/127.66.15.138:46873] logged in with entity id 28971 at (-330.1151466096703, 66.0, -536.4717880459289)
-[00:14:39] [Server thread/INFO]: eriksen351 joined the game
-[00:14:48] [Server thread/INFO]: No player was found
-[00:14:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:14:55] [Server thread/INFO]: msg a<--[HERE]
-[00:15:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:15:01] [Server thread/INFO]: msg aaaaa<--[HERE]
-[00:15:05] [Server thread/INFO]: No player was found
-[00:15:16] [Server thread/INFO]: You whisper to eriksen351: putoooooooooooooooooooooooooooo
-[00:15:25] [Server thread/INFO]: Kicked eriksen351: Kicked by an operator
-[00:15:26] [Server thread/INFO]: eriksen351 lost connection: Kicked by an operator
-[00:15:26] [Server thread/INFO]: eriksen351 left the game
-[00:15:30] [Server thread/INFO]: eriksen351[/127.66.15.138:47313] logged in with entity id 29727 at (-341.08632816259546, 70.0, -513.860876196694)
-[00:15:30] [Server thread/INFO]: eriksen351 joined the game
-[00:15:48] [Server thread/INFO]: You whisper to eriksen351: jejeje salame
-[00:15:55] [Server thread/INFO]: Kicked eriksen351: Kicked by an operator
-[00:15:55] [Server thread/INFO]: eriksen351 lost connection: Kicked by an operator
-[00:15:55] [Server thread/INFO]: eriksen351 left the game
-[00:16:00] [Server thread/INFO]: eriksen351[/127.66.15.138:42707] logged in with entity id 30395 at (-349.7221122962625, 70.0, -526.4926100600254)
-[00:16:00] [Server thread/INFO]: eriksen351 joined the game
-[00:16:15] [Server thread/WARN]: eriksen351 moved too quickly! 6.996993594275239,1.7150326858829743,6.98796255150728
-[00:16:26] [Server thread/INFO]: eriksen351 lost connection: Disconnected
-[00:16:26] [Server thread/INFO]: eriksen351 left the game
+[23:08:41] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
+[23:08:42] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.20.4
+[23:08:42] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MASETA/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[23:08:57] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:09:03] [main/INFO]: Loaded 7 recipes
+[23:09:03] [main/INFO]: Loaded 1271 advancements
+[23:09:05] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[23:09:05] [Server thread/INFO]: Loading properties
+[23:09:05] [Server thread/INFO]: Default game type: SURVIVAL
+[23:09:05] [Server thread/INFO]: Generating keypair
+[23:09:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:09:06] [Server thread/INFO]: Using epoll channel type
+[23:09:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:09:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:09:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:09:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:09:06] [Server thread/INFO]: Preparing level "world"
+[23:09:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:09:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:09:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:09:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:09:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:09:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:09:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:09:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:09:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:09:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:09:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:09:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:09:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:09:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:09:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:09:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:09:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:09:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:09:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:09:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:09:28] [Worker-Main-1/INFO]: Preparing spawn area: 3%
+[23:09:29] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[23:09:29] [Worker-Main-1/INFO]: Preparing spawn area: 9%
+[23:09:30] [Worker-Main-1/INFO]: Preparing spawn area: 9%
+[23:09:30] [Worker-Main-1/INFO]: Preparing spawn area: 9%
+[23:09:31] [Worker-Main-1/INFO]: Preparing spawn area: 24%
+[23:09:31] [Worker-Main-1/INFO]: Preparing spawn area: 67%
+[23:09:32] [Worker-Main-1/INFO]: Preparing spawn area: 87%
+[23:09:32] [Server thread/INFO]: Time elapsed: 13409 ms
+[23:09:32] [Server thread/INFO]: Done (26.076s)! For help, type "help"
+[23:09:40] [Server thread/INFO]: Vicleoon[/127.39.109.39:37395] logged in with entity id 64 at (-334.0735499250987, 70.0, -511.2451379634399)
+[23:09:40] [Server thread/INFO]: Vicleoon joined the game
+[23:09:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4151ms or 83 ticks behind
+[23:09:57] [Server thread/INFO]: eriksen351[/127.66.15.138:45009] logged in with entity id 310 at (-345.51353136133775, 70.67913266928498, -513.9807358819595)
+[23:09:57] [Server thread/INFO]: eriksen351 joined the game
+[23:10:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3258ms or 65 ticks behind
+[23:16:21] [Server thread/INFO]: [Not Secure] <Vicleoon> -300 0
+[23:17:35] [Server thread/INFO]: eriksen351 lost connection: Disconnected
+[23:17:35] [Server thread/INFO]: eriksen351 left the game
+[23:17:45] [Server thread/INFO]: eriksen351[/127.66.15.138:55507] logged in with entity id 2390 at (-347.73794699380863, 70.5625, -513.138317032567)
+[23:17:45] [Server thread/INFO]: eriksen351 joined the game
+[23:18:21] [Server thread/INFO]: [Not Secure] <Vicleoon> -33 -98 coords nether frente de la granja xd
