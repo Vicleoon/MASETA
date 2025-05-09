@@ -2819,15 +2819,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-08 23:13:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-05-08 23:21:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "has_flint": "2025-05-08 23:13:59 +0000"
+      "fortress": "2025-05-08 23:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-08 23:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-05-08 23:23:59 +0000"
     },
     "done": true
   },
@@ -2837,15 +2855,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
-      "shot_arrow": "2025-05-09 00:08:49 +0000"
+      "has_blaze_rod": "2025-05-08 23:24:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+  "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
-      "has_iron_block": "2025-05-08 23:55:22 +0000"
+      "has_blaze_rod": "2025-05-08 23:24:07 +0000"
     },
     "done": true
   },
@@ -2861,21 +2879,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "has_nether_wart": "2025-05-08 23:23:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-05-08 23:24:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-05-08 23:23:59 +0000"
+      "has_iron_block": "2025-05-08 23:55:22 +0000"
     },
     "done": true
   },
@@ -2885,15 +2891,9 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "fortress": "2025-05-08 23:22:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-05-08 23:24:07 +0000"
+      "shot_arrow": "2025-05-09 00:08:49 +0000"
     },
     "done": true
   },
