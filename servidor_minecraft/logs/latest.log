@@ -65,3 +65,20 @@
 [03:09:21] [Server thread/WARN]: handleDisconnection() called twice
 [03:11:00] [Server thread/INFO]: eriksen351[/127.66.15.138:50117] logged in with entity id 2132 at (-341.1165687330032, 72.29499998688698, -512.0012453243606)
 [03:11:00] [Server thread/INFO]: eriksen351 joined the game
+[03:13:49] [Server thread/INFO]: eriksen351 lost connection: Disconnected
+[03:13:49] [Server thread/INFO]: eriksen351 left the game
+[03:14:34] [Server thread/INFO]: eriksen351[/127.22.216.224:55505] logged in with entity id 2955 at (-348.8218695365587, 70.0, -514.2573727759604)
+[03:14:34] [Server thread/INFO]: eriksen351 joined the game
+[03:15:04] [Server thread/INFO]: eriksen351 lost connection: Timed out
+[03:15:04] [Server thread/INFO]: eriksen351 left the game
+[03:15:30] [Server thread/INFO]: eriksen351[/127.22.216.224:39157] logged in with entity id 3191 at (-348.8218695365587, 70.0, -514.2573727759604)
+[03:15:30] [Server thread/INFO]: eriksen351 joined the game
+[03:16:12] [Server thread/INFO]: eriksen351 lost connection: Disconnected
+[03:16:12] [Server thread/INFO]: eriksen351 left the game
+[03:16:54] [Server thread/INFO]: eriksen351[/127.22.216.224:50737] logged in with entity id 3554 at (-349.4784545174618, 70.0, -513.7518186589808)
+[03:16:54] [Server thread/INFO]: eriksen351 joined the game
+[03:18:15] [Server thread/WARN]: eriksen351 moved too quickly! -7.9620395407752085,1.252203340253729,6.286964618092611
+[03:18:25] [Server thread/INFO]: eriksen351 lost connection: Timed out
+[03:18:25] [Server thread/INFO]: eriksen351 left the game
+[03:19:56] [Server thread/INFO]: eriksen351[/127.66.15.138:60063] logged in with entity id 4129 at (-350.2804128243317, 71.24918707874468, -512.1303815296751)
+[03:19:56] [Server thread/INFO]: eriksen351 joined the game
