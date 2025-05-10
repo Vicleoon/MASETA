@@ -1195,6 +1195,7 @@
       "minecraft:pillager": "2025-05-06 02:17:18 +0000",
       "minecraft:blaze": "2025-05-08 23:23:40 +0000",
       "minecraft:skeleton": "2025-05-02 04:26:16 +0000",
+      "minecraft:phantom": "2025-05-10 00:14:38 +0000",
       "minecraft:witch": "2025-05-02 02:03:06 +0000",
       "minecraft:wither_skeleton": "2025-05-08 23:23:24 +0000",
       "minecraft:piglin": "2025-05-05 23:26:52 +0000",
@@ -2954,6 +2955,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_the_recipe": "2025-05-09 23:56:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-05-10 00:17:50 +0000"
     },
     "done": true
   },
