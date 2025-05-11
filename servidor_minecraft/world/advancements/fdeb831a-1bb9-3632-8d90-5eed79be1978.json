@@ -1121,16 +1121,17 @@
     "criteria": {
       "minecraft:pillager": "2025-05-06 01:58:44 +0000",
       "minecraft:skeleton": "2025-05-02 02:23:37 +0000",
+      "minecraft:witch": "2025-05-06 02:18:50 +0000",
+      "minecraft:ender_dragon": "2025-05-11 00:22:29 +0000",
       "minecraft:vindicator": "2025-05-06 02:18:31 +0000",
       "minecraft:enderman": "2025-05-11 00:15:44 +0000",
-      "minecraft:witch": "2025-05-06 02:18:50 +0000",
+      "minecraft:silverfish": "2025-05-11 00:51:59 +0000",
       "minecraft:spider": "2025-05-02 04:15:16 +0000",
       "minecraft:zombie": "2025-05-02 02:00:04 +0000",
       "minecraft:creeper": "2025-05-05 22:20:27 +0000",
       "minecraft:drowned": "2025-05-06 00:27:40 +0000",
       "minecraft:zombie_villager": "2025-05-02 21:49:09 +0000",
-      "minecraft:evoker": "2025-05-06 02:18:40 +0000",
-      "minecraft:ender_dragon": "2025-05-11 00:22:29 +0000"
+      "minecraft:evoker": "2025-05-06 02:18:40 +0000"
     },
     "done": false
   },
@@ -2885,6 +2886,18 @@
   "minecraft:end/kill_dragon": {
     "criteria": {
       "killed_dragon": "2025-05-11 00:22:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-11 00:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-05-11 00:57:50 +0000"
     },
     "done": true
   },
