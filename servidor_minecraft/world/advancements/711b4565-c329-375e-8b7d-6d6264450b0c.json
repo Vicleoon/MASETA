@@ -1205,6 +1205,7 @@
       "minecraft:wither_skeleton": "2025-05-08 23:23:24 +0000",
       "minecraft:piglin": "2025-05-05 23:26:52 +0000",
       "minecraft:vindicator": "2025-05-06 02:17:18 +0000",
+      "minecraft:enderman": "2025-05-11 00:20:30 +0000",
       "minecraft:magma_cube": "2025-05-08 23:21:01 +0000",
       "minecraft:spider": "2025-05-02 02:01:29 +0000",
       "minecraft:vex": "2025-05-06 03:16:29 +0000",
@@ -2969,6 +2970,36 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-05-11 00:25:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-11 00:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-05-11 00:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-11 00:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-05-11 00:22:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2025-05-11 00:10:10 +0000"
@@ -2978,6 +3009,18 @@
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2025-05-11 00:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-11 00:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-11 00:22:47 +0000"
     },
     "done": true
   },
