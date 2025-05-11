@@ -18,6 +18,7 @@
       "minecraft:lukewarm_ocean": "2025-05-02 04:35:36 +0000",
       "minecraft:stony_shore": "2025-05-02 00:59:52 +0000",
       "minecraft:lush_caves": "2025-05-03 22:10:24 +0000",
+      "minecraft:dripstone_caves": "2025-05-11 00:10:21 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-02 01:12:05 +0000",
       "minecraft:ocean": "2025-05-02 22:41:42 +0000",
       "minecraft:jungle": "2025-05-02 22:55:46 +0000",
@@ -2965,6 +2966,24 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-05-10 00:17:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-05-11 00:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-05-11 00:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-05-11 00:14:18 +0000"
     },
     "done": true
   },
